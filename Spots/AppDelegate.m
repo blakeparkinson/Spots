@@ -239,7 +239,7 @@
     
   
     
-    UITabBarItem *homeTabBarItem = [[UITabBarItem alloc] initWithTitle:nil image:[UIImage imageNamed:@"ActivityTabBarIcon.png"] selectedImage:[UIImage imageNamed:@"ActivityTabBarIcon.png"]];
+    UITabBarItem *homeTabBarItem = [[UITabBarItem alloc] initWithTitle:nil image:[UIImage imageNamed:@"ActivityTabBarIcon2.png"] selectedImage:[UIImage imageNamed:@"ActivityTabBarIcon2.png"]];
     /*
     [homeTabBarItem setTitleTextAttributes: @{ NSForegroundColorAttributeName: [UIColor colorWithRed:255.0f/255.0f green:255.0f/255.0f blue:255.0f/255.0f alpha:1.0f] } forState:UIControlStateNormal];
     [homeTabBarItem setTitleTextAttributes: @{ NSForegroundColorAttributeName: [UIColor colorWithRed:255.0f/255.0f green:255.0f/255.0f blue:255.0f/255.0f alpha:1.0f] } forState:UIControlStateSelected];
@@ -249,7 +249,7 @@
     
     [homeNavigationController setTabBarItem:homeTabBarItem];
     
-    UITabBarItem *discoverTabBarItem = [[UITabBarItem alloc] initWithTitle:nil image:[UIImage imageNamed:@"SpotsTabBarIcon"] selectedImage:[UIImage imageNamed:@"SpotsTabBarIcon"]];
+    UITabBarItem *discoverTabBarItem = [[UITabBarItem alloc] initWithTitle:nil image:[UIImage imageNamed:@"SpotsTabBarIcon2"] selectedImage:[UIImage imageNamed:@"SpotsTabBarIcon2"]];
     
     [discoverTabBarItem setTitleTextAttributes:@{ NSForegroundColorAttributeName: [UIColor colorWithRed:255.0f/255.0f green:255.0f/255.0f blue:255.0f/255.0f alpha:1.0f] } forState:UIControlStateNormal];
     [discoverTabBarItem setTitleTextAttributes:@{ NSForegroundColorAttributeName: [UIColor colorWithRed:255.0f/255.0f green:255.0f/255.0f blue:255.0f/255.0f alpha:1.0f] } forState:UIControlStateSelected];
