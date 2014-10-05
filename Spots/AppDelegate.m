@@ -136,7 +136,7 @@
     [[UINavigationBar appearance] setTitleTextAttributes:[NSDictionary dictionaryWithObjectsAndKeys:
                                                           kSPColorBlue,NSForegroundColorAttributeName,
                                                           nil]];
-    [[UITabBar appearance] setTintColor:[UIColor whiteColor]];
+    [[UITabBar appearance] setTintColor:[UIColor beigeColor]];
 }
 
 
